@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">取证工具</string>
+    <string name="search_hint">搜索应用名或包名</string>
+    <string name="confirm_backup_title">确认备份</string>
+    <string name="confirm_backup_message">开始备份 %1$s（%2$s）？</string>
+    <string name="backup_completed_title">备份完成</string>
+    <string name="backup_completed_message">文件已保存至 %1$s</string>
+    <string name="backup_failed_title">备份失败</string>
+    <string name="backup_failed_message">备份 %1$s 失败：%2$s</string>
+    <string name="backing_up">正在备份…</string>
+    <string name="incompatible_title">设备不兼容</string>
+    <string name="incompatible_message">当前设备不满足兼容性要求，无法运行本程序。</string>
+    <string name="missing_app_title">未找到所需应用</string>
+    <string name="missing_app_message">未安装该品牌换机应用，请到应用市场下载后再运行。</string>
+    <string name="switch_acquire">启用请求授权</string>
+    <string name="switch_system_apps">显示系统应用</string>
+    <string name="acquire_denied_title">授权被拒绝</string>
+    <string name="acquire_denied_message">授权被拒绝，备份已取消。</string>
+    <string name="loading_apps">正在加载应用列表…</string>
+</resources>

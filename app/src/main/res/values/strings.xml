@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Forensic Tool</string>
+    <string name="search_hint">Search app name or package</string>
+    <string name="confirm_backup_title">Confirm Backup</string>
+    <string name="confirm_backup_message">Start backing up %1$s (%2$s)?</string>
+    <string name="backup_completed_title">Backup Completed</string>
+    <string name="backup_completed_message">File saved to %1$s</string>
+    <string name="backup_failed_title">Backup Failed</string>
+    <string name="backup_failed_message">Failed to back up %1$s: %2$s</string>
+    <string name="backing_up">Backing up…</string>
+    <string name="incompatible_title">Incompatible Device</string>
+    <string name="incompatible_message">This device does not meet compatibility requirements and cannot run this app.</string>
+    <string name="missing_app_title">Required App Not Found</string>
+    <string name="missing_app_message">The phone transfer app for this brand is not installed. Please download it from the app store and try again.</string>
+    <string name="switch_acquire">Enable Acquire Auth</string>
+    <string name="switch_system_apps">Show System Apps</string>
+    <string name="acquire_denied_title">Authorization Denied</string>
+    <string name="acquire_denied_message">Authorization was denied. Backup cancelled.</string>
+    <string name="loading_apps">Loading app list…</string>
+</resources>
